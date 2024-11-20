@@ -1,4 +1,3 @@
-// Функція для затримки через проміс
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 
